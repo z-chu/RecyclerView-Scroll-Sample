@@ -36,6 +36,7 @@
 
 ## 资源下载
 
+[app-release.apk](https://raw.githubusercontent.com/z-chu/RecyclerView-Scroll-Sample/master/app/app-release.apk)
 
 ## 其他资料
 
