@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -10,6 +11,10 @@
 ### Android template
 # Built application files
 
+=======
+# Built application files
+*.apk
+>>>>>>> cc6f1183f1ef31dcfd9cbdca84333e013a81480b
 *.ap_
 
 # Files for the ART/Dalvik VM
@@ -45,6 +50,7 @@ captures/
 # Intellij
 *.iml
 .idea/workspace.xml
+<<<<<<< HEAD
 .idea/tasks.xml
 .idea/libraries
 
@@ -54,3 +60,9 @@ captures/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
+=======
+
+# Keystore files
+*.jks
+>>>>>>> cc6f1183f1ef31dcfd9cbdca84333e013a81480b
+/.idea/vcs.xml
