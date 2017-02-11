@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorGrounding">#ffF4F3F1</color><!--界面底色-->
+    <color name="colorDivider">#D9D9D9</color> <!-- 分割线颜色-->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color><!--用于普通级信息-->
+</resources>

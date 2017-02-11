@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ways">
+        <item>scrollBy</item>
+        <item>scrollToPosition</item>
+        <item>smoothScrollToPosition</item>
+        <item>scrollToPositionWithOffset</item>
+    </string-array>
+</resources>
